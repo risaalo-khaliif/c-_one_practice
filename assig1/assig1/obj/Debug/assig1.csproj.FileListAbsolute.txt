@@ -1,0 +1,10 @@
+C:\Users\Dahir\source\repos\assig1\assig1\bin\Debug\assig1.exe.config
+C:\Users\Dahir\source\repos\assig1\assig1\bin\Debug\assig1.exe
+C:\Users\Dahir\source\repos\assig1\assig1\bin\Debug\assig1.pdb
+C:\Users\Dahir\source\repos\assig1\assig1\obj\Debug\assig1.csproj.AssemblyReference.cache
+C:\Users\Dahir\source\repos\assig1\assig1\obj\Debug\assig1.Form1.resources
+C:\Users\Dahir\source\repos\assig1\assig1\obj\Debug\assig1.Properties.Resources.resources
+C:\Users\Dahir\source\repos\assig1\assig1\obj\Debug\assig1.csproj.GenerateResource.cache
+C:\Users\Dahir\source\repos\assig1\assig1\obj\Debug\assig1.csproj.CoreCompileInputs.cache
+C:\Users\Dahir\source\repos\assig1\assig1\obj\Debug\assig1.exe
+C:\Users\Dahir\source\repos\assig1\assig1\obj\Debug\assig1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\bin\Debug\Home assigment.exe.config
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\bin\Debug\Home assigment.exe
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\bin\Debug\Home assigment.pdb
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\obj\Debug\Home assigment.csproj.AssemblyReference.cache
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\obj\Debug\Home_assigment.Form1.resources
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\obj\Debug\Home_assigment.Properties.Resources.resources
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\obj\Debug\Home assigment.csproj.GenerateResource.cache
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\obj\Debug\Home assigment.csproj.CoreCompileInputs.cache
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\obj\Debug\Home assigment.exe
+C:\Users\Dahir\source\repos\Home assigment\Home assigment\obj\Debug\Home assigment.pdb
